@@ -3,29 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Asa's PowerWashing</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background-color: #f5f7fa;
-      color: #333;
-    }
-    header, footer {
-      background-color: #0a2540;
-      color: #fff;
-      text-align: center;
-      padding: 1rem;
-    }
-    nav a {
-      margin: 0 15px;
-      color: #fff;
-      text-decoration: none;
-    }
-    .logo {
-      max-width: 200px;
-      margin: 1rem auto;
-      display: block;
+ 
     }
     .container {
       padding: 2rem;
