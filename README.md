@@ -4,24 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
  
-    }
-    .container {
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #0a2540;
-    }
-    .button {
-      display: inline-block;
-      padding: 0.75rem 1.5rem;
-      background-color: #0077cc;
-      color: #fff;
-      border-radius: 5px;
-      text-decoration: none;
-      margin-top: 1rem;
-    }
+    
   </style>
 </head>
 <body>
