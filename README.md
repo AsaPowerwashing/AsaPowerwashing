@@ -1,5 +1,3 @@
-Hi, I'm Asa – the founder of Asa's PowerWashing.
-I started this business out of a passion for transforming neglected driveways into spotless, welcoming surfaces. Growing up in Cincinnati, I saw how much of a difference a clean exterior can make for a home’s appearance and value. I wanted to create a company that not only delivers high-quality results but also builds trust with every customer.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,7 +48,6 @@ I started this business out of a passion for transforming neglected driveways in
 </head>
 <body>
   <header>
-    <img src="Logo .png" alt="Asa's PowerWashing Logo" class="logo">
     <h1>Asa's PowerWashing</h1>
     <nav>
       <a href="#about">About</a>
@@ -61,9 +58,6 @@ I started this business out of a passion for transforming neglected driveways in
 
   <div class="container" id="about">
     <h2>About Us</h2>
-    <p>
-      Hi, I'm Asa – the founder of Asa's PowerWashing. I started this business out of a passion for transforming neglected driveways into spotless, welcoming surfaces. Growing up in Cincinnati, I saw how much of a difference a clean exterior can make for a home’s appearance and value. I wanted to create a company that not only delivers high-quality results but also builds trust with every customer. 
-    </p>
     <p>
       Asa's PowerWashing was founded with a mission to bring new life to every driveway in Cincinnati. We believe a clean home exterior reflects pride in ownership and helps boost property value. We started this business to provide a reliable, affordable, and effective solution for homeowners who want to keep their property looking its best.
     </p>
@@ -96,3 +90,4 @@ I started this business out of a passion for transforming neglected driveways in
   </footer>
 </body>
 </html>
+
